@@ -9,3 +9,6 @@ Steps:
 2.	Transform data: Clean, delete some columns, separate columns. 
 3.	Load data for further visualization and analysis
 4.	Classified Movies by Year range till 1980 (Old Movies), 1981-2010 (New Movies) , 2011-2022 (Modern Movies)
+
+To see vizuals you can open .pdf file
+Also feel free tou download file and see all done steps in PowerBi Data Tae redactor.
