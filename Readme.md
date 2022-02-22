@@ -12,3 +12,9 @@ Steps:
 
 To see vizuals you can open .pdf file
 Also feel free tou download file and see all done steps in PowerBi Data Tae redactor.
+
+
+Project made together with Datorium Coding School
+https://youtu.be/r3-nMjYc_gk
+
+
