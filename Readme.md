@@ -11,7 +11,7 @@ Steps:
 4.	Classified Movies by Year range till 1980 (Old Movies), 1981-2010 (New Movies) , 2011-2022 (Modern Movies)
 
 To see vizuals you can open .pdf file
-Also feel free tou download file and see all done steps in PowerBi Data Tae redactor.
+Also feel free to download file and see all done steps in PowerBi Data Tae redactor.
 
 
 Project made together with Datorium Coding School
