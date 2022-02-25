@@ -2,7 +2,7 @@ IMDB Movie Top 250 Analysis
 
 Goal:
 Is to find a relationship between a Year of Movie and its Rate
-And see is there any Alphabetical impact to Rate
+And see if there any Alphabetical impact to Rate
 
 Steps:
 1.	Get data from web https://www.imdb.com/chart/top/?ref_=nv_mv_250
@@ -11,7 +11,7 @@ Steps:
 4.	Classified Movies by Year range till 1980 (Old Movies), 1981-2010 (New Movies) , 2011-2022 (Modern Movies)
 
 To see vizuals you can open .pdf file
-Also feel free to download file and see all done steps in PowerBi Data Tae redactor.
+Also feel free to download file and see all done steps in PowerBi Query redactor.
 
 
 Project made together with Datorium Coding School
